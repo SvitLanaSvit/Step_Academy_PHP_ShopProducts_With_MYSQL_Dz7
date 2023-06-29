@@ -72,11 +72,6 @@
         <p>
             5. Feedback and Redirection: After performing a database operation (adding or editing a product), the program provides feedback to the user through JavaScript alert messages. It displays a success message indicating the result of the operation. Additionally, it redirects the user to the `index.php?page=2` page after a short delay, allowing them to continue using the program.
         </p>
-
-        <p>
-            It's worth noting that the provided code snippet contains some minor syntax errors, such as the misspelled `allert()` function. Please make sure to correct any such errors before running the program. Additionally, consider implementing further enhancements like input validation, error handling, and sanitization to ensure the security and stability of the program.
-        </p>
-        
     </div>
 </body>
 </html>
